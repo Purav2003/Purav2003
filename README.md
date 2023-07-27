@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shahpurav308@gmail.com**
 
-- Portfolio <a href="purav-portfolio.netlify.app">purav-portfolio.netlify.app</a>
+- Portfolio <a href="https://purav-portfolio.netlify.app" target="_blank">purav-portfolio.netlify.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
