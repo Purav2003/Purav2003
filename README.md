@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Purav Shah</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-- 💬 Ask me about **React.js , Bootstrap , Tailwind , CSS , JS , Django, Node.js, Three.js, Express.js**
+- 💬 Ask me about **React.js , Bootstrap , Tailwind , CSS , JS , Django, Next.js, Node.js, Three.js, Express.js**
 
 - 📫 How to reach me **shahpurav308@gmail.com**
 
